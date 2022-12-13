@@ -1,3 +1,0 @@
-QWI2.csv filter=lfs diff=lfs merge=lfs -text
-pseo_ny.csv filter=lfs diff=lfs merge=lfs -text
-pseo_ny.xlsx filter=lfs diff=lfs merge=lfs -text
